@@ -141,7 +141,7 @@ if st.session_state.page == "Front Page":
             <h3 style="color: #00c6ff; text-align: center; margin-bottom: 20px; font-weight: 800;">System Architect</h3>
             <table style="width: 100%; font-size: 1.2rem; line-height: 2.0; color: var(--text-color);">
                 <tr><td width="35%"><b>Name:</b></td><td>Varnabha patra</td></tr>
-                <tr><td><b>Roll Number:</b></td><td>SEL24</td></tr>
+                <tr><td><b>Roll Number:</b></td><td>SEL53</td></tr>
                 <tr><td><b>Institution:</b></td><td>Dr. D. Y. Patil Institute of Technology, Pimpri</td></tr>
                 <tr><td><b>Department:</b></td><td>Department of Electrical Engineering </td></tr>
             </table>
